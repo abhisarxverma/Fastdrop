@@ -1,3 +1,5 @@
+<img src="public/fastdrop_logo_2.png" width="100" height="100" style="border-radius: 100px">
+
 # Fastdrop
 
 Fastdrop is a lightweight web app for instant file sharing in classrooms and computer labs.  
